@@ -1,0 +1,56 @@
+{
+  "customers": [
+    {
+      "fname": "john",
+      "address": "fake addess",
+      "mobile": "9898989898",
+      "id": 1
+    },
+    {
+      "fname": "kate",
+      "address": "new address",
+      "mobile": "4545454545",
+      "id": 2
+    },
+    {
+      "fname": "ross",
+      "address": "new street",
+      "mobile": "122123123",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "jars": "2",
+      "date": "2023-09-20",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "jars": "10",
+      "date": "2023-09-20",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "jars": "25",
+      "date": "2023-09-21",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "jars": "12",
+      "date": "2023-09-21",
+      "userId": 1,
+      "id": 5
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
